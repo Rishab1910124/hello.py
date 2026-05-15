@@ -3,3 +3,5 @@
 name='Rishab'
 print("Hello"+name+",you just wrote your first code")
 ## Learning DevOps.
+name = input("What is your name? ")
+print("Hello " + name + ", you just wrote and merged your first DevOps code!")
